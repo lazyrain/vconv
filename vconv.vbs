@@ -49,8 +49,6 @@ Set objFileSystem = CreateObject("Scripting.FileSystemObject")
 
 Set objFolder = objFileSystem.GetFolder(strScriptPath)
 
-
-
 '' ----------------------------------------------------------------------
 ''
 '' ƒƒCƒ“ˆ—
